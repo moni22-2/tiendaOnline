@@ -1,0 +1,1 @@
+web: gunicorn tiendaOnline.wsgi
