@@ -1,2 +1,1 @@
-web: gunicorn tiendaOline.wsgi
-
+web: gunicorn tiendaOline.wsgi:application
