@@ -1,1 +1,2 @@
-web: gunicorn tiendaOnline.wsgi
+web: gunicorn tiendaOline.wsgi
+
